@@ -710,5 +710,7 @@ section {
   .header .navbar .active {
     right: 0;
   }
-  .header .navbar 
+  .header .navbar {
+    display: block;
+  }
 }
